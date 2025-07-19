@@ -1,7 +1,7 @@
 # Hi 👋, I'm Darshan D G
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software +Developer;Passionate+about+Web+Technologies;Building+Amazing+User+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Developer;Passionate+about+Web+Technologies;Building+Amazing+User+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
