@@ -15,8 +15,8 @@
 - 🔭 I'm currently working on **exciting frontend projects**
 - 🌱 I'm currently learning **advanced React patterns and modern web technologies**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, JavaScript, HTML, CSS, and frontend development**
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, and frontend development & Backend Java, Python **
+- 📫 How to reach me: mail to: Darshanraja576@gmail.com
 - ⚡ Fun fact: **I love turning ideas into beautiful, interactive web experiences**
 
 ## 🛠️ Technologies & Tools
