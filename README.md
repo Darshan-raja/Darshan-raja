@@ -15,14 +15,14 @@
 - 🔭 I'm currently working on **exciting frontend projects**
 - 🌱 I'm currently learning **advanced React patterns and modern web technologies**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, JavaScript, HTML, CSS, and frontend development & Backend Java, Python **
+- 💬 Ask me about **React, JavaScript, HTML, CSS, and frontend development & Backend Java, Python.
 - 📫 How to reach me: mail to: Darshanraja576@gmail.com
 - ⚡ Fun fact: **I love turning ideas into beautiful, interactive web experiences**
 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <table>
+<table>
     <tr>
       <td align="center" width="96">
         <a href="https://www.w3.org/html/" target="_blank">
@@ -53,6 +53,12 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />
         </a>
         <br>Java
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.python.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+        </a>
+        <br>Python
       </td>
     </tr>
     <tr>
@@ -87,8 +93,8 @@
         <br>Tailwind
       </td>
     </tr>
-  </table>
-</div>
+</table>
+
 
 ## 🌐 Connect with Me
 
