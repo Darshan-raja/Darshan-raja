@@ -139,6 +139,74 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan-raja&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff&hide_border=true" alt="Contribution Graph" />
 </div>
 
+ <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="[https://img.shields.io/badge](https://cdn.qwiklabs.com/shwfnV3HX4fJA9JXjk43J9w%2FEBTIwbeWyv3OxwQz5Vg%3D)/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+        <br>
+        <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17367419">
+          <img width="120" src="https://github.com/user-attachments/assets/5da2e679-3b52-4441-8283-cc0326214a9f" /> 
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+      </td><td align="center" width="150">
+  <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100"><br>
+  <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17367419">
+    <img width="120" src="https://github.com/user-attachments/assets/5da2e679-3b52-4441-8283-cc0326214a9f?raw=true" />
+  </a><br>
+  <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+</td>
+
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+        <br>
+        <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17519518">
+          <img width="120" src="https://github.com/user-attachments/assets/5fc1176e-143b-4939-8fbe-b1300b3274fc" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+        <br>
+        <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17599566">
+          <img width="120" src="https://github.com/user-attachments/assets/ef0afc64-64ed-4893-88ec-0af7a25c6af5" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+        <br>
+        <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17608666">
+          <img width="120" src="https://github.com/user-attachments/assets/c8e814d4-a558-4753-a28b-90a484f5daec" />
+        </a>
+        <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+        <br>
+        <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc">
+          <img width="120" src="https://github.com/user-attachments/assets/64eee892-3feb-40e0-841b-518383366572" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+        <br>
+        <a href="https://www.g.dev/mreccentric"">
+          <img width="120" src="https://github.com/user-attachments/assets/e94fcfc3-0ce2-4143-8ead-879209708878" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+      </td>
+    </tr>
+  </table> 
+  
+  
+  
+
 ## 💡 Random Dev Quote
 
 <div align="center">
