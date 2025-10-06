@@ -126,7 +126,7 @@
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-raja&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
-## 🏆 Google Aracde
+## 🏆 Google Cloud Aracde
 
 <table>
   <tr>
@@ -156,8 +156,6 @@
            </a>
        <br>
         <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
-</table>
-<table>
   <td align="center" width="150">
     <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
     <br>
@@ -165,6 +163,7 @@
       <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/9fb0ca2a-f7f0-4c4f-a76d-2318c0b4b399" />
     </a>
   <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+  </td>
 </table>
 
 ## 🏆 GitHub Trophies
