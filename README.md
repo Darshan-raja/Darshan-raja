@@ -179,7 +179,7 @@
 </div>
 ## 💡 Random Dev Quote
 
-## 🎯 Current Focus
+##  🎯 Current Focus
 
 ```javascript
 const darshan = {
