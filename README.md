@@ -105,7 +105,8 @@
   <a href="https://twitter.com/your-username" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://https://www.instagram.com/itz_me_darshan_raja/?igsh=Y25xN2Q4ODJxY3Mz#" target="_blank">
+  
+  <a href="https://www.instagram.com/itz_me_darshan_raja/?igsh=Y25xN2Q4ODJxY3Mz#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:your-email@example.com">
