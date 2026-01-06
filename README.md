@@ -211,6 +211,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=75&animation=twinkling" alt="Footer" />
 </div>
 
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/darshan-raja">Darshan D G</a></i>
+</div>
+
 ## 🎯 Current Focus
 
 ```javascr
@@ -232,7 +236,3 @@ const darshan = {
     "I still love debugging pipelines with echo statements when it gets the job done! 😄",
 };
 
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/darshan-raja">Darshan D G</a></i>
-</div>
