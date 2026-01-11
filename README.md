@@ -1,4 +1,9 @@
-# Hi 👋, I'm Darshan D G
+<!-- <h1 align="center"> ![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)</h1> -->
+<h1 align="center">
+  <img src="https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif" alt="MasterHead" />
+</h1>
+
+<h1 align="center">Hi 👋, I'm Darshan D G </h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Passionate+about+Cloud+%26+Automation;Building+Reliable+CI%2FCD+Pipelines" alt="Typing SVG" />
