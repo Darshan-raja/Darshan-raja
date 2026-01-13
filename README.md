@@ -202,9 +202,8 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan-raja&theme=react-dark&bg_color=0d1117&color=3B82F6&line=3B82F6&point=58A6FF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan-raja&theme=react-dark&bg_color=1a1a2e,16213e,0f3460&line=00adb5&point=fff&color=fff" width="100%" />
 
----
 
 ## 💡 Random Dev Quote
 
